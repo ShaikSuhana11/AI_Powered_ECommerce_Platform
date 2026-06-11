@@ -1,0 +1,6 @@
+{
+  "name": "AI Multi-Vendor E-Commerce",
+  "description": "An enterprise-grade, full-stack multi-vendor e-commerce platform featuring integrated seller/admin dashboards, dynamic pricing models, and real-time AI capabilities for smart search and sentiment reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
