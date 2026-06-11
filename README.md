@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AI-Powered Multi-Vendor E-Commerce Platform
 
-# Run and deploy your AI Studio app
+A modern full-stack AI-powered e-commerce platform inspired by Amazon and Flipkart, built with React, Vite, TypeScript, and Gemini AI.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/7044c868-68a3-4f83-8f16-c7f5f2463624
+- User Authentication
+- Google Login
+- Product Catalog
+- Smart Search
+- AI Recommendations
+- Shopping Cart
+- Wishlist
+- Multi-Vendor Marketplace
+- Seller Dashboard
+- Admin Dashboard
+- Inventory Management
+- Order Tracking
+- Analytics Dashboard
+- Responsive Design
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+Frontend:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
+AI:
+- Google Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Deployment:
+- Vercel
+
+## Installation
+
+```bash
+npm install
+npm run dev
